@@ -1,5 +1,5 @@
 {
-    "name": "kislota/laravel_translation",
+    "name": "pepeshark/laravel_translation",
     "description": "A Translation package for Laravel 5 with database and cache support",
     "keywords": [
         "waavi",
